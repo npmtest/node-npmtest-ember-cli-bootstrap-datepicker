@@ -1,4 +1,7 @@
-# test coverage for  [ember-cli-bootstrap-datepicker (v0.5.6)](https://github.com/soulim/ember-cli-bootstrap-datepicker#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-cli-bootstrap-datepicker.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-cli-bootstrap-datepicker) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-cli-bootstrap-datepicker.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-cli-bootstrap-datepicker)
+# npmtest-ember-cli-bootstrap-datepicker
+
+#### basic test coverage for  [ember-cli-bootstrap-datepicker (v0.5.6)](https://github.com/soulim/ember-cli-bootstrap-datepicker#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-ember-cli-bootstrap-datepicker.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-ember-cli-bootstrap-datepicker) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-ember-cli-bootstrap-datepicker.svg)](https://travis-ci.org/npmtest/node-npmtest-ember-cli-bootstrap-datepicker)
+
 #### Datepicker component for Ember CLI based on bootstrap-datepicker. It doesn't have any external dependency except bootstrap-datepicker, supports popup and inline modes.
 
 [![NPM](https://nodei.co/npm/ember-cli-bootstrap-datepicker.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-cli-bootstrap-datepicker)
@@ -107,7 +110,8 @@
         "start": "ember server",
         "test": "ember try:testall"
     },
-    "version": "0.5.6"
+    "version": "0.5.6",
+    "bin": {}
 }
 ```
 
